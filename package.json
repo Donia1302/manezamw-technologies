@@ -1,0 +1,19 @@
+{
+  "name": "manezamw-technologies",
+  "version": "1.0.0",
+  "description": "MaNezaMW — Technology & Digital Solutions website.",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve .",
+    "lint:html": "npx --yes htmlhint \"*.html\"",
+    "format": "npx --yes prettier --write \"**/*.{html,css,js,md,json}\""
+  },
+  "keywords": [
+    "manezamw",
+    "technology",
+    "digital-solutions",
+    "malawi"
+  ],
+  "author": "MaNezaMW",
+  "license": "MIT"
+}
