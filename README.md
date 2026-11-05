@@ -27,9 +27,10 @@ tools. This site is the digital home for those projects and the services behind 
 - Contact form with client-side validation that opens WhatsApp
 - No build step required — plain HTML, CSS and JavaScript
 
-## Live site
+## Live sites
 
-https://donia1302.github.io/manezamw-technologies/
+- Vercel: https://manezamw-technologies.vercel.app/
+- GitHub Pages: https://donia1302.github.io/manezamw-technologies/
 
 ## Run locally
 
