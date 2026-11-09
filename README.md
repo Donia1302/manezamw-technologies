@@ -29,7 +29,8 @@ tools. This site is the digital home for those projects and the services behind 
 
 ## Live sites
 
-- Vercel: https://manezamw-technologies.vercel.app/
+- Vercel (website): https://manezamw-technologies.vercel.app/
+- Vercel (Business Management System): https://maneza-mw.vercel.app/
 - GitHub Pages: https://donia1302.github.io/manezamw-technologies/
 
 ## Run locally

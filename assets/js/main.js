@@ -77,7 +77,8 @@
   }
 
   // ---------- Contact form ----------
-  const WHATSAPP_NUMBER = "265XXXXXXXXX"; // Replace before launch
+  const WHATSAPP_NUMBER = "265899791902"; // MaNezaMW WhatsApp
+  const CALLING_NUMBER = "+265993952814"; // MaNezaMW calling line
 
   function initContactForm() {
     const form = $("#contactForm");
